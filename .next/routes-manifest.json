@@ -1,0 +1,227 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/1",
+      "regex": "^/1(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/1(?:/)?$"
+    },
+    {
+      "page": "/10",
+      "regex": "^/10(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/10(?:/)?$"
+    },
+    {
+      "page": "/11",
+      "regex": "^/11(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/11(?:/)?$"
+    },
+    {
+      "page": "/12",
+      "regex": "^/12(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/12(?:/)?$"
+    },
+    {
+      "page": "/13",
+      "regex": "^/13(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/13(?:/)?$"
+    },
+    {
+      "page": "/14",
+      "regex": "^/14(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/14(?:/)?$"
+    },
+    {
+      "page": "/15",
+      "regex": "^/15(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/15(?:/)?$"
+    },
+    {
+      "page": "/16",
+      "regex": "^/16(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/16(?:/)?$"
+    },
+    {
+      "page": "/17",
+      "regex": "^/17(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/17(?:/)?$"
+    },
+    {
+      "page": "/18",
+      "regex": "^/18(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/18(?:/)?$"
+    },
+    {
+      "page": "/19",
+      "regex": "^/19(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/19(?:/)?$"
+    },
+    {
+      "page": "/2",
+      "regex": "^/2(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/2(?:/)?$"
+    },
+    {
+      "page": "/20",
+      "regex": "^/20(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/20(?:/)?$"
+    },
+    {
+      "page": "/21",
+      "regex": "^/21(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/21(?:/)?$"
+    },
+    {
+      "page": "/22",
+      "regex": "^/22(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/22(?:/)?$"
+    },
+    {
+      "page": "/23",
+      "regex": "^/23(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/23(?:/)?$"
+    },
+    {
+      "page": "/24",
+      "regex": "^/24(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/24(?:/)?$"
+    },
+    {
+      "page": "/25",
+      "regex": "^/25(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/25(?:/)?$"
+    },
+    {
+      "page": "/26",
+      "regex": "^/26(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/26(?:/)?$"
+    },
+    {
+      "page": "/3",
+      "regex": "^/3(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/3(?:/)?$"
+    },
+    {
+      "page": "/4",
+      "regex": "^/4(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/4(?:/)?$"
+    },
+    {
+      "page": "/5",
+      "regex": "^/5(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/5(?:/)?$"
+    },
+    {
+      "page": "/6",
+      "regex": "^/6(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/6(?:/)?$"
+    },
+    {
+      "page": "/7",
+      "regex": "^/7(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/7(?:/)?$"
+    },
+    {
+      "page": "/8",
+      "regex": "^/8(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/8(?:/)?$"
+    },
+    {
+      "page": "/9",
+      "regex": "^/9(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/9(?:/)?$"
+    },
+    {
+      "page": "/deutschebank",
+      "regex": "^/deutschebank(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/deutschebank(?:/)?$"
+    },
+    {
+      "page": "/deutschebank/page1",
+      "regex": "^/deutschebank/page1(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/deutschebank/page1(?:/)?$"
+    },
+    {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}
